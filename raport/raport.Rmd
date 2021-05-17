@@ -1,0 +1,113 @@
+---
+title: "Bioinformatyka - zadanie 2"
+subtitle: "dadasdasdf"
+output: 
+  pdf_document:
+    fig_caption: yes
+author: Konrad Komisarczyk
+bibliography: citations.bib
+---
+
+```{r setup, include=FALSE}
+#knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Wstęp
+
+Rośliny nagonasienne (*Gymnospermae*) to grupa roślin charakteryzująca się nie wytwarzaniem otaczających nasiona owoców.
+Wraz z siostrzanym kladem roślin okrytonasiennych razem tworzą klad roślin nasiennych. *Gymnospermae* współcześnie reprezentowana jest przez ponad 1000 gatunków. Kiedyś tych gatunków było więcej, jednak podejrzewa się, że konkurencja ze strony roślin okrytonasiennych prowadzi do wymierania gatunków nagonasiennych i spadku róznorodności w tej grupie.
+
+
+## Problemy filogenetyki roślin nagonasiennych
+
+Filogenetyka nagonasiennych jest ciekawym zagadnieniem ze względu na wciąż trwającą dyskusję nad systematyką wewnątrz grupy. Wciąż pojawiają się inne drzewa filogenetyczne i klasyfikacje w obrębie grupy [@ran_phylogenomics_2018]  [@lu_phylogeny_2014] [@ch_1] [@simpson_plant_2010], pomiędzy którymi istnieją znaczne różnice. 
+
+Podobieństwo między współczesnymi wynikami stanowi odłączanie miłorzębowatych (*Ginkgoaceae*) i sagowcowatych (*Cycadaceae*) jako wcześniejszych grup rozwojowych i wskazywanie sosnowatych (*Pinaceae*) jako bazowej grupy względem gniotowców (*Gnetales*). Na głębszych poziomach drzew ponadto prace drugiego dziesięciolecia XXI wieku zgadzają się co do wielu rzeczy, m.in. zawsze pary araukariowate (*Araucariaceae*) - zastrzalinowate (*Podocarpaceae*), cisowate (*Taxaceae*) - cyprysowate (*Cupressaceae*) oraz welwiczjowate (*Welwitschiaceae*) - gniotowate (*Gnetaceae*) są uważane jako pary siostrzane, a przęślowate (*Ephedraceae*) jako grupa bazalna względem ostatniej z nich (tworzy razem z tą parą gniotowce (*Gnetales*)).
+
+Różnice we współczesnych drzewach filogenetycznych dotyczą umieszczenia grup sosnowatych (*Pinaceae*) (czy są one bazowe względem araukariowców i cyprysowców, czy tylko gniotowców) i sośnicowatych (*Sciadopityaceae*) (czy stanowią one klad bazowy względem araukariowatych i zastrzalinowatych, czy cisowatych i cyprysowatych). 
+
+W przeszłości, przed erą molekularnych badań filogenetycznych, problematyczna była grupa gniotowców (*Gnetales*), która ze względu na swoje cechy fenotypowe dawniej nie była klasyfikowana jako rośliny nagonasienne, a grupa siostrzana do roślin okrytonasiennych.
+
+```{r phyllo_tree_1, out.width="49%", fig.show='hold', fig.align='center', fig.cap="Drzewa filogenetyczne z artykułów (Ran et al. 2018) (po lewej) i (Lu et al. 2014) (po prawej)"}
+knitr::include_graphics(c("images/phyllo_tree_1.jpg", "images/phyllo_tree_2.png"))
+```
+
+
+## Cel pracy
+
+Celem pracy jest analiza filogenetyczna roślin nagonasiennych na podstawie sekwencji białkowych 11 gatunków z grupy - po jednym przedstawicielu każdej rodziny. Analiza ma potwierdzić ugruntowane elementy systematyki wewnątrz grupy oraz przedstawić dowody po jednej ze stron w opisanych powyżej kwestiach spornych. 
+
+
+# Metody
+
+
+## Wybrane gatunki
+
+Wybrano po 1 przedstawicielu z 11 omawianych rodzin. Zakładając przyjęty podział roślin na rodziny, każdy gatunek jest reprezentantem swojej rodziny. 
+
+### Sagowiec ...
+
+### Miłorząb dwuklapowy
+
+### Modrzew europejski
+
+### Ephedra sinica
+
+### Gnetum ...
+
+### welwiczjowate coś ? (9)
+
+### Sośnica japońska
+
+### jalowiec pospolity
+
+### cis pospolity
+
+### Araukaria ...
+
+### zastrzalinowate coś? (11)
+
+### to ostatnie
+
+
+## Wybór sekwencji
+
+Z bazy danych danych NCBI [potrzebne źródło] pobrano w sumie XXX sekwencji białkowych w formacie FASTA. 
+
+Dla części gatunków ograniczono liczbę sekwencji użytych do analizy. TODO JAK OGRANICZONO
+
+W poniższej tabeli znajduje się liczba sekwencji dla poszczególnych gatunków:
+
+| Lp. | Rodzina                    | Gatunek                  | Pobranych sekwencji | Wybranych sekwencji |
+|----:|:--------------------------:|:------------------------:|:-------------------:|:-------------------:|
+|1    | *Cycadaceae*               | *Cycas revoluta*         | 416 | XX |
+|2    | *Ginkgoaceae*              | *Ginkgo biloba*          | 8384 | XX |
+|3    | *Ephedraceae*              | *Ephedra sinica*         | 329 | XX |
+|4    | *Pinaceae*                 | *Larix decidua*          | 515 | XX |
+|5    | *Gnetaceae*                | *Gnetum gnemon*          | 517 | XX |
+|6    | *Welwitschiaceae*          | *Welwitschia mirabilis*  | 457 | XX |
+|7    | *Sciadopitys verticillata* | *Sciadopityaceae*        | 472 | XX |
+|8    | *Cupressaceae*             | *Juniperus communis*     | 381 | XX |
+|9    | *Araucariaceae*            | *Araucaria angustifolia* | 286 | XX |
+|10   | *Podocarpaceae*            | *Nageia nagi*            | 340 | XX |
+|11   | *Zamiaceae*                | *Zamia erosa*            | 460 | XX |
+
+## Klastrowanie sekwencji i wybór klastrów
+
+## Dopasowanie sekwencji 
+
+## Drzewa filogenetyczne
+
+## Drzewo konsensusowe
+
+# Wyniki
+
+
+# Wnioski i dyskusja
+
+
+
+
+# Bibliografia
