@@ -74,7 +74,7 @@ Wybrano po 1 przedstawicielu z 11 omawianych rodzin. Zakładając przyjęty podz
 
 ## Wybór sekwencji
 
-Z bazy danych danych NCBI [potrzebne źródło] pobrano w sumie XXX sekwencji białkowych w formacie FASTA. 
+Z bazy danych NCBI Protein pobrano sekwencje białkowe w formacie FASTA. 
 
 Dla części gatunków ograniczono liczbę sekwencji użytych do analizy. TODO JAK OGRANICZONO
 
@@ -82,19 +82,21 @@ W poniższej tabeli znajduje się liczba sekwencji dla poszczególnych gatunków
 
 | Lp. | Rodzina                    | Gatunek                  | Pobranych sekwencji | Wybranych sekwencji |
 |----:|:--------------------------:|:------------------------:|:-------------------:|:-------------------:|
-|1    | *Cycadaceae*               | *Cycas revoluta*         | 416 | XX |
+|1    | *Cycadaceae*               | *Cycas revoluta*         | 416  | XX |
 |2    | *Ginkgoaceae*              | *Ginkgo biloba*          | 8384 | XX |
-|3    | *Ephedraceae*              | *Ephedra sinica*         | 329 | XX |
-|4    | *Pinaceae*                 | *Larix decidua*          | 515 | XX |
-|5    | *Gnetaceae*                | *Gnetum gnemon*          | 517 | XX |
-|6    | *Welwitschiaceae*          | *Welwitschia mirabilis*  | 457 | XX |
-|7    | *Sciadopitys verticillata* | *Sciadopityaceae*        | 472 | XX |
-|8    | *Cupressaceae*             | *Juniperus communis*     | 381 | XX |
-|9    | *Araucariaceae*            | *Araucaria angustifolia* | 286 | XX |
-|10   | *Podocarpaceae*            | *Nageia nagi*            | 340 | XX |
-|11   | *Zamiaceae*                | *Zamia erosa*            | 460 | XX |
+|3    | *Ephedraceae*              | *Ephedra sinica*         | 329  | XX |
+|4    | *Pinaceae*                 | *Larix decidua*          | 515  | XX |
+|5    | *Gnetaceae*                | *Gnetum gnemon*          | 517  | XX |
+|6    | *Welwitschiaceae*          | *Welwitschia mirabilis*  | 457  | XX |
+|7    | *Sciadopitys verticillata* | *Sciadopityaceae*        | 472  | XX |
+|8    | *Cupressaceae*             | *Juniperus communis*     | 381  | XX |
+|9    | *Araucariaceae*            | *Araucaria angustifolia* | 286  | XX |
+|10   | *Podocarpaceae*            | *Nageia nagi*            | 340  | XX |
+|11   | *Zamiaceae*                | *Zamia erosa*            | 460  | XX |
 
 ## Klastrowanie sekwencji i wybór klastrów
+
+
 
 ## Dopasowanie sekwencji 
 
