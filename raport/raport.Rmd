@@ -96,18 +96,41 @@ W poniższej tabeli znajduje się liczba sekwencji dla poszczególnych gatunków
 
 ## Klastrowanie sekwencji i wybór klastrów
 
+W kolejnym etapie przeprowadzono klasteryzację zbioru wszystkich wybranych sekwencji z użyciem algorytmu CD-HIT.
+Ustalono następujące wartości parametrów `threshold = 0.6`, `wordsize = 4`. Wybór wartości parametru `threshold` zostanie wyjaśniony w dalszej części tego paragrafu. Parametr `wordsize` dobierany jest odpowiednio do wartości `threshold`. 
+W efekcie działania algorytmu otrzymano 365 klastrów.
 
+Spośród 365 klastrów, wybrano 41, które zawierały co najmniej jedną sekwencję z każdego gatunku. Żaden z klastrów nie zawierał dokładnie jednej sekwencji z każdego gatunku. Sekwencje wewnątrz klastrów nie zawsze były tej samej długości. Parametr `threshold = 0.6` pozwolił otrzymać większą liczbę wybranych klastrów, niż jego większe wartości, które także były testowane `(0.65, 0.7, 0.75, 0.8, 0.85)`.
+
+TODO - dlaczego nie użyto mniejszego threshold????
+
+Wybrane klastry oczyszczono pozostawiając po 1 sekwencji z każdego gatunku. Pozostawiono pierwszą sekwencję z danego gatunku według kolejności w wynikowych plikach programu CD-HIT.
 
 ## Dopasowanie sekwencji 
 
+Wewnątrz każdego wybranego klastra przeprowadzono dopasowanie sekwencji. Uliniowienie przeprowadzono równolegle z użyciem dwóch metod: Muscle i ClustalW. Oba algorytmy uruchomiono z domyślnym zestawem parametrów.
+
 ## Drzewa filogenetyczne
 
+Na podstawie otrzymanych dopasowań, dla każdej kombinacji klastra i algorytmu dopasowania, zbudowano drzewa filogenetyczne. Drzewa zbudowano metodą UPGMA, zatem otrzymane drzewa były ukorzenione. Jako źródło odległości między aminokwasami wykorzystano macierz *BLOSUM45*.
+
+TODO - o próbowaniu innych macierzy
+
+TODO - może wstawić blosum45????
+
 ## Drzewo konsensusowe
+
+Dla obu algorytmów dopasowania zbudowano z drzew filogenetycznych drzewa konsensusowe. 
 
 # Wyniki
 
 
 # Wnioski i dyskusja
+
+## Propozycje usprawnienia zastosowanej metodologii
+
+
+
 
 
 
