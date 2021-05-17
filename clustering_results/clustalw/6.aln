@@ -1,0 +1,171 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+4_3             ------------------------------------------------------------
+11_6            ------------------------------------------------------------
+8_2             ------------------------------------------------------------
+5_70            ------------------------------------------------------------
+6_17            ------------------------------------------------------------
+3_49            ------------------------------------------------------------
+9_4             ------------------------------------------------------------
+7_33            ------------------------------------------------------------
+2_16            ------------------------------------------------------------
+10_52           MSPKTETKASAGFKAGVKDYRLTYYTPEYQTKDTDILAAFRVTPQPGVPPEEAGAAVAAE
+1_36            -------------------------------------APIRVTPQPGVPPEEAGAAVAAE
+                                                                            
+
+4_3             ------------------------------------------------------------
+11_6            ------------------------------------------------------------
+8_2             ------------------------------------------------------------
+5_70            ------------------------------------------------------------
+6_17            ------------------------------------------------------------
+3_49            ------------------------------------------------------------
+9_4             ------------------------------------------------------------
+7_33            ------------------------------------------------------------
+2_16            ------------------------------------------------------------
+10_52           SSTGTWTTVWTDGLTSLDRYKGRCYGIEAIPGEESQFIAYVAYPLDLFEEGSVTNLFTSI
+1_36            SSTGTWTTVWTDGLTSLDRYKGRCYDIEPVPGEENQFIAYVAYPLDLFEEGSVTNMFTSI
+                                                                            
+
+4_3             ------------------------------------------------------------
+11_6            ------------------------------------------------------------
+8_2             ------------------------------------------------------------
+5_70            ------------------------------------------------------------
+6_17            ------------------------------------------------------------
+3_49            ------------------------------------------------------------
+9_4             ------------------------------------------------------------
+7_33            ------------------------------------------------------------
+2_16            ------------------------------------------------------------
+10_52           VGNVFGFKALRALRLEDLRIPPAYSKTFQGPPHGIQVERDKLNKYGRPLLGCTIKPKLGL
+1_36            VGNVFGFKALRALRLEDLRVPPAYSKTFQGPPHGIQVERDKLNKYGRPLLGCTIKPKLGL
+                                                                            
+
+4_3             ------------------------------------------------------------
+11_6            ------------------------------------------------------------
+8_2             ------------------------------------------------------------
+5_70            ------------------------------------------------------------
+6_17            ------------------------------------------------------------
+3_49            ------------------------------------------------------------
+9_4             ------------------------------------------------------------
+7_33            ------------------------------------------------------------
+2_16            ------------------------------------------------------------
+10_52           SAKNYGRAVYECLRGGLDFTKDDENVNSQPFMRWRDRFCFCAEALFKAQAETGEIKGHYL
+1_36            SAKNYGRAVYECLRGGLDFTKDDENVNSQPFMRWRDRFCFCAEAIYKAQAETGEIKGHYL
+                                                                            
+
+4_3             -----------------------------------------------SVGFKAGVKDYRL
+11_6            -------------------------------------------ETKASVGFKAGVKDYRI
+8_2             -----------------------------------------------------GVKDYRL
+5_70            --------------------------------------MSPKTETKASVGFQAGVKDYRL
+6_17            --------------------------------------MSPKTETKASVGFQAGVKDYRL
+3_49            --------------------------------------MSPKTETKASVGFKAGVKDYRL
+9_4             ---------------------------------------------KTGVGFKAGVKDYRL
+7_33            --------------------------------------MSPKTETKASVGFKAGVKDYRL
+2_16            ------------------------------------------------------------
+10_52           NATAGTCEEMMKRAIFARELGVPIVMHDYLTGGFTANTSLAHYCRDNGLLLHIHRAMHAV
+1_36            NATAGTCEEMIKRAVFARELGVPIVMHDYLTGGFTANTSLAHYCRDNGLLLHIHRAMHAV
+                                                                            
+
+4_3             TYYTPEYQTKDTDILAAFRVTPQPGVPPEEAGAAVAAESSTGTWTTVWTDGLTSLDRYKG
+11_6            TYYTPDYETKDTDILAAFRVTPQPGVPAEEAGAAVAAESSTGTWTTVWTDGLTSLDRYKG
+8_2             TYYTPEYQTKDTDILAAFRVTPQPGVPPEEAGAAVAAESSTGTWTTVWTDGLTSLDRYKG
+5_70            TYYTPEYQTKDTDILAAFRVTPQPGVPPEEAGAAVAAESSTGTWTTVWTDGLTSLDRYKG
+6_17            TYYTPEYQTKDTDILAAFRVTPQPGVPPEEAGAAVAAESSTGTWTTVWTDGLTSLDRYKG
+3_49            TYYTPEYQTKNTDILAAFRVTPQPGVPAEEAGAAVAAESSTGTWTTVWTDGLTSLDRYKG
+9_4             TYYTPEYQTKDTDILAAFRVTPQPGVPPEEAGAAVAAESSTGTWTTVWTDGLTSLDRYKG
+7_33            TYYTPEYQTKDTDILAAFRVTPQPGVPPEEAGAAVAAESSTGTWTTVWTDGLTSLDRYKG
+2_16            -----------------LRMS---------GGDHIHAGTVVG------------------
+10_52           LDRQKIHGMHFRVLAKALRMS---------GGDHIHAGTVVG------------------
+1_36            IDRQRNHGMHFRVLAKALRMS---------GGDHIHAGTVVG------------------
+                                 :*::         .*  : * : .*                  
+
+4_3             RCYDIEAVPGEESQFIAYVAYPLDLFEEGSVTNLFTSIVGNVFGFKALRALRLEDLRIPP
+11_6            RCYDIEPVPGEETQFIAYVAYPLDLFEEGSVTNMFTSIVGNVFGFKALRAIRLEDLRIPP
+8_2             RCYDIEPVPGEETQFIAYVAYPLDLFEEGSVTNLFTSIVGNVFGFKALRALRLEDLRIPP
+5_70            RCYDLEPVPGEDNQFIAYVAYPLDLFEEGSVTNMFTSIVGNVFGFKALRALRLEDLRIPT
+6_17            RCYDLEPVPGEDNQYIAYVAYPLDLFEEGSVTNMFTSIVGNVFGFKALRALRLEDLRIPT
+3_49            RCYDIEPVPGEDNQFIAYVAYPLDLFEEGSVTNMFTSIVGNVFGFKALRALRLEDLRIPT
+9_4             RCYDIEPVPGEETQFIAYVAYPLDLFEEGSVTNLFTSIVGNVFGFKALRALRLEDLRIPP
+7_33            RCYDIEPVPGEESQFIAYVAYPLDLFEEGSVTNMFTSIVGNVFGFKALRALRLEDLRIPP
+2_16            ------KLEGEREVTLGFVDLLRDDFIE--------------------------------
+10_52           ------KLEGEREVTLGFVDLLRDDFIE--------------------------------
+1_36            ------KLEGERDVTLGFVDLLRDDFIE--------------------------------
+                       : **    :.:*    * * *                                
+
+4_3             AYSKTFQGPPHGIQVERDKLNKYGRPLLGCTIKPKLGLSAKNYGRAVYECL---------
+11_6            AYSKTFQGPPHGIQVERDKLNKYGRPLLGCTIKPKLGLSAKNYGRAVYEVLRGG------
+8_2             AYSKTFQGPPHGIQVERDKLNKYGRPLLGCTIKPKLGLSAKNYGRAVYECLRGGLDFTKD
+5_70            SYIKTFQGPPHGIQVERDKLNKYGRPLLGCTIKPKLGLSAKNYGRAVYECLRGGLDFTKD
+6_17            SYIKTFQGPPHGIQVERDKLNKYGRPLLGCTIKPKLGLSAKNYGRAVYECLRGGLDFTKD
+3_49            AYIKTFQGPPHGIQVERDKLNKYGRPLLGCTIKPKLGLSAKNYGRAVYECLRGGLDFTKD
+9_4             AYSKTFQGPPHGIQVERDKLNKYGRPLLGRTIKPKLGLSAKNYGRAVYECLRGGLDFTKD
+7_33            AYSKTFQGPPHGIQVERDKLNKYGRPLLGCTIKPKLGLSAKNYGRAVYECLRGGLDFTKD
+2_16            ------KDRSRGIYFTQDWVSMP-------------------------------------
+10_52           ------KDRSRGIYFTQDWVSMPGVLPVASGGIHVWHMPALTEIFGDDSVLQFGGGTLGH
+1_36            ------RDRSRGIYFTQDWV----------------------------------------
+                      :. .:** . :* :                                        
+
+4_3             ------------------------------------------------------------
+11_6            ------------------------------------------------------------
+8_2             DENVNSQPFMR-------------------------------------------------
+5_70            DENVNSQPFMRWRDRFVFCAEALYKAQAETGEIKGHYLNATAGTCEEMIKRAVFARELGA
+6_17            DENVNSQPFMRWRDRFVFCAEAIYKAQAETGEIKGHYLNATAGTCEEMIKRAVFARELGV
+3_49            DENVNSQPFMRWRDRFVFCAEAIYKAQAETGEIKGHYLNATAGTCEEMIKRAVFARELGV
+9_4             DENVNSQPFMRWRDRFVFCAEAIYKAQAETGEIKGHYLNATAGTCEEMMKRVSFAYELGV
+7_33            DENVNSQPFMRWRDRFCFCAEAIYKAQAETGEIKGHYLNATAGTCEEMIKRAVFARELGV
+2_16            ------------------------------------------------------------
+10_52           PWGNAPGAAANRVALEACVEARNEGRDLAREGNEVIREASKWSPELAAACEVWKEIKFEF
+1_36            ------------------------------------------------------------
+                                                                            
+
+4_3             ------------------------------------------------------------
+11_6            ------------------------------------------------------------
+8_2             ------------------------------------------------------------
+5_70            PIVMHDYLTGGFTANTTLAHYCRDNGLLLHIHRAMHAVIDRQKNHGMHFRVLAKALRLSG
+6_17            PIVMHDYLTGGFTANTTLAHYCRDNGLLLHIHRAMHAVIDRQKNHGMHFRVLAKALRMSG
+3_49            PIVMHDYLTGGFTANTTLAHYCRDNGLLLHIHRAMHAVIDRQKNHGMHFRVLAKALRMSG
+9_4             PIAMHDYLTGGFTANTSLAHYCRDHGLLLHIHRAMHAVIDRQKIHGMHFRVLAKALRMSG
+7_33            PIVMHDYLTGGFTANTSLSHYCRDNGLLLHIHRAMHAVIDRQRNHGMHFRVLAKALRMSG
+2_16            ------------------------------------------------------------
+10_52           ETIDTL------------------------------------------------------
+1_36            ------------------------------------------------------------
+                                                                            
+
+4_3             ------------------------------------------------------------
+11_6            ------------------------------------------------------------
+8_2             ------------------------------------------------------------
+5_70            GDHIHAGTVVGKLEGEREITLGFVDLLRDDFVEKDRSRGIYFTQDWVSTPGVLPVASGGI
+6_17            GDHIHAGTVVGKLEGEREITLGFVDLLRDDFIEKDRSRGIYFTQDWVSMPGVMPVASGGI
+3_49            GDHIHAGTVVGKLEGEREITLGFVDLLRDDFIEKDRSRGIYFTQDWVSMPGVLPVASGGI
+9_4             GDHVHAGTVVGKLEGEREVTLGFVDLLRDDFIEKDRSRGIYFTQDWVSMPGVLPVASGGI
+7_33            GDHIHAGTVVGKLEGEREVTLGFVDLLRDDFIEKDRSRGIYFTQDWVSMPGVLPVASGGI
+2_16            ------------------------------------------------------------
+10_52           ------------------------------------------------------------
+1_36            ------------------------------------------------------------
+                                                                            
+
+4_3             ------------------------------------------------------------
+11_6            ------------------------------------------------------------
+8_2             ------------------------------------------------------------
+5_70            HVWHMPALTEIFGDDAVLQFGGGTLGHPWGNAPGAVANRVALEACVQARNEGRDLVREGN
+6_17            HVWHMPALTDIFGDDAVLQFGGGTLGHPWGNAPGAVANRVALEACVQARNEGRDLAREGN
+3_49            HVWHMPALTDIFGDDAVLQFGGGTLGHPWGNAPGAVANRVALEACVQARNEGRDLAREGN
+9_4             HVWHMPALTEIFGDDSVLQFGGGTLGHPWGNAPGAVANRVALEACVQARNEGRDLAREGN
+7_33            HVWHMPALTEIFGDDSVLQFGGGTLGHPWGNAPGAVANRVALEACVQARNEGRDLAREGN
+2_16            ------------------------------------------------------------
+10_52           ------------------------------------------------------------
+1_36            ------------------------------------------------------------
+                                                                            
+
+4_3             ---------------------------------
+11_6            ---------------------------------
+8_2             ---------------------------------
+5_70            EVIREASKWSPELAAACEVWKEIKFEFQAVDTL
+6_17            EVIREAAKWSPELAAACEVWKEIKFEFESVDTL
+3_49            EVIREACKWSPELAAACEVWKEIKFEFDSVDTI
+9_4             EIIREATKWSPELAAACEV--------------
+7_33            EVIREACKWSPELAAACEVWKEIKFEFDTIDRL
+2_16            ---------------------------------
+10_52           ---------------------------------
+1_36            ---------------------------------
+                                                 
