@@ -1,22 +1,24 @@
->1_201 YP_007474666.1 cytochrome b6/f complex subunit VIII (chloroplast) [Cycas revoluta]
-MDIVSIAWAALMVVFTFSLSLVVWGRSGL
->2_106 QOZ40211.1 cytochrome b6/f complex subunit VIII (chloroplast) [Ginkgo biloba]
-MDIISIAWAALMVVFTFSLSLVVWGRSGL
->3_62 QJQ26555.1 cytochrome b6/f complex subunit VIII (chloroplast) [Ephedra sinica]
-MDITGIAWAALMVVFTFSLSLVVWGRSGL
->4_94 BAK86498.1 cytochrome b6/f complex subunit VIII (chloroplast) [Larix decidua]
-MDIVDITWAALMVVFTFSLSLVVWGRSGL
->5_56 ALK01123.1 cytochrome b6/f complex subunit VIII (chloroplast) [Gnetum gnemon]
-MNIVDIAWAALMVVFTFSLSLVVWGRSGL
->6_6 sp|B2Y1V4.1|PETN_WELMI RecName: Full=Cytochrome b6-f complex subunit 8; AltName: Full=Cytochrome b6-f complex subunit PetN; AltName: Full=Cytochrome b6-f complex subunit VIII
-MNIVDIAWAALMVVFTFSLSLVVWGRSGL
->7_5 BCK60792.1 Cytochrome b6/f complex subunit N (chloroplast) [Sciadopitys verticillata]
-MDIVGIAWAALMVVFTFSLSLVVWGRSGL
->8_35 AXP34429.1 cytochrome b6f complex subunit VIII (plastid) [Juniperus communis]
-MDIVGIAWAALMVVFTFSLSLVVWGRSGI
->9_68 ATL58962.1 cytochrome b6/f complex subunit VIII (chloroplast) [Araucaria angustifolia]
-MDIVGIAWAALMVVFTFSLSLVVWGRSGL
->10_67 BCK60643.1 Cytochrome b6/f complex subunit N (chloroplast) [Nageia nagi]
-MDIVDIAWAALMVVFTFSLSLVVWGRSGL
->11_95 BAR93285.1 Cytochrome b6/f complex subunit N (chloroplast) [Zamia furfuracea]
-MDIVSIAWAALMVVFTFSLSLVVWGRSGL
+>1_66 AEX99226.1 photosystem II protein I (chloroplast) [Cycas revoluta]
+MFTLKLFVYTVVIFFVSLFIFGFLSNDPGRNPGRKE
+>2_6 BAL72575.1 photosystem II protein I (chloroplast) [Ginkgo biloba]
+MLTLKLFVHTVVIFFVFLLIFGFLSNDPGRNPGRKE
+>3_149 QEI59886.1 photosystem II protein I (chloroplast) [Ephedra sinica]
+MLTLKVFVYTIVIFFISLFIFGFLSNDPGRNPGRKEEG
+>4_56 YP_004891201.1 photosystem II protein I (chloroplast) [Larix decidua]
+MLTLKLFVYAVVVFFISLFIFGFLSNDPGRNPGRKE
+>5_31 ANZ53570.1 photosystem II protein I (plastid) [Gnetum gnemon]
+MLTLKVFVYTVVIFFVSLFLFGFLSNDPGRNPGRKEESS
+>6_196 BAH11224.1 photosystem II protein I (chloroplast) [Welwitschia mirabilis]
+MLTLKVFVYTVVTFFISLFLFGFLSNDPGRNPGRKEEG
+>7_102 BAW34597.1 photosystem II protein I (chloroplast) [Sciadopitys verticillata]
+MLTLKLFVYTVVIFFVSLFIFGFLSNDPARNPGRKE
+>8_68 YP_009388155.1 photosystem II protein I (chloroplast) [Juniperus communis]
+MLTLKLFVYTVVIFFVSLFIFGFLSNDPGRNPGRKE
+>9_104 AXI97920.1 photosystem II protein I (plastid) [Araucaria angustifolia]
+MLTLKLFVYTVVIFFVSLFIFGFLSNDPGRNPGRKG
+>10_159 BAK86673.1 photosystem II protein I (chloroplast) [Nageia nagi]
+MFTLKLFVYTVVVFFVSLFIFGFLSNDPGRNPGRKG
+>11_91 YP_009113710.1 photosystem II protein I (chloroplast) [Zamia furfuracea]
+MFTLKLFVYTVVIFFVSLLIFGFLSNDPGRNPGRKE
+>12_33 QBK33947.1 photosystem II protein I (chloroplast) [Taxus baccata]
+MLTLKLFVYTVVIFFVSLFIFGFLSNDPGRNPGRKE

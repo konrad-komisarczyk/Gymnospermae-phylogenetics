@@ -1,22 +1,24 @@
->1_233 YP_007474634.1 photosystem I subunit IX (chloroplast) [Cycas revoluta]
+>1_30 AEX99183.1 photosystem I subunit IX (chloroplast) [Cycas revoluta]
 MRDIKTYLSTAPVLATLWFGSLAGLLIEINRFFPDALTFPFFSF
->2_79 QOZ40238.1 photosystem I subunit IX (chloroplast) [Ginkgo biloba]
+>2_209 QOZ40238.1 photosystem I subunit IX (chloroplast) [Ginkgo biloba]
 MRDIKIYLSVAPVLATLWFGSLAGLLIEINRFFPDALASPFSSF
->3_38 QJQ26579.1 photosystem I subunit IX (chloroplast) [Ephedra sinica]
+>3_60 QJQ26579.1 photosystem I subunit IX (chloroplast) [Ephedra sinica]
 MQYIKKYLSTAPVLATLWFGSLAGFLIEINRFFPDALSFPFSF
->4_2 sp|Q85V00.1|PSAJ_LARDC RecName: Full=Photosystem I reaction center subunit IX; AltName: Full=PSI-J
+>4_188 sp|Q85V00.1|PSAJ_LARDC RecName: Full=Photosystem I reaction center subunit IX; AltName: Full=PSI-J
 MQDLKTYLSTAPVLAISWLIFVAGLLIEINRFFPDALTLTFPSF
->5_81 ALK01098.1 photosystem I subunit IX (chloroplast) [Gnetum gnemon]
+>5_11 ALK01098.1 photosystem I subunit IX (chloroplast) [Gnetum gnemon]
 MQDIKTYLSTAPVLATFWFGLLAGLLIEINRFFPDALTFSFAF
->6_39 sp|B2Y1X9.1|PSAJ_WELMI RecName: Full=Photosystem I reaction center subunit IX; AltName: Full=PSI-J
+>6_44 ABY26809.1 photosystem I subunit IX (chloroplast) [Welwitschia mirabilis]
 MQDIKTYLSTAPVLATLWFSSLAGLLIEINRFFPDALTFPFFSF
->7_56 BCK60741.1 photosystem I subunit IX (chloroplast) [Sciadopitys verticillata]
+>7_101 AMO00733.1 photosystem I subunit IX (chloroplast) [Sciadopitys verticillata]
 MQDIKTYLSTAPVLATLWFASLAGLLIEINRFFPDALVFPFFSF
->8_67 AXP34397.1 photosystem I subunit IX (plastid) [Juniperus communis]
+>8_91 AXP34397.1 photosystem I subunit IX (plastid) [Juniperus communis]
 MQDIKTYLSTAPVLATLCLIFLSGLLIEINRFFPDALTFSFF
->9_41 ATL58989.1 photosystem I subunit IX (chloroplast) [Araucaria angustifolia]
+>9_122 ATL58989.1 photosystem I subunit IX (chloroplast) [Araucaria angustifolia]
 MQDIKTYLSTAPVLATLWFGCLAGLLIEINRFFPDALTFPFFSF
->10_40 BCK60670.1 photosystem I subunit IX (chloroplast) [Nageia nagi]
+>10_41 BAK86658.1 photosystem I subunit IX (chloroplast) [Nageia nagi]
 MQDIKTYLSTAPVLATLWFGCLAGSLIEINRFFPDALTFPFFHF
->11_68 BAR93312.1 photosystem I subunit IX (chloroplast) [Zamia furfuracea]
+>11_27 BAR93312.1 photosystem I subunit IX (chloroplast) [Zamia furfuracea]
 MQDIKTYLSTAPVLATLWFGSLAGLLIEINRFFPDALTFPFFSF
+>12_242 QBK34761.1 photosystem I subunit IX (chloroplast) [Taxus baccata]
+MRDIKTYLSTAPVLATLWLGSLAGLLIEINRFFPDALTFPFFLF

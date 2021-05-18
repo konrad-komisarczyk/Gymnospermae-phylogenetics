@@ -1,22 +1,24 @@
->6_8 sp|Q6YLT4.1|PSBF_WELMI RecName: Full=Cytochrome b559 subunit beta; AltName: Full=PSII reaction center subunit VI
-MTIEKIYPIFTVRWLAVHGLAVPTVFFLGSISAMQFIQR
->5_3 sp|Q9GFC3.1|PSBF_GNEGN RecName: Full=Cytochrome b559 subunit beta; AltName: Full=PSII reaction center subunit VI
-MTTEKIYPIFTVRWLAVHGLAVPTVFFLGSISAMQFIQR
->4_33 BAK86559.1 cytochrome b559 beta chain (chloroplast) [Larix decidua]
-MTTDRTFPIFTVRWLAIHGLAVPTVFFLGSISAMQFIQR
->3_1 sp|Q8HRZ6.1|PSBF_EPHSI RecName: Full=Cytochrome b559 subunit beta; AltName: Full=PSII reaction center subunit VI
-MTIDRIYPIFTVRWLAIHGLAVPTVFFLGSISAMQFIQR
->8_71 AXP34393.1 photosystem II cytochrome b559 beta subunit (plastid) [Juniperus communis]
-MTIDRSYPIFTVRWLAVHGLAVPTVFFLGSISAMQFIQR
->2_11 sp|Q7J1B1.1|PSBF_GINBI RecName: Full=Cytochrome b559 subunit beta; AltName: Full=PSII reaction center subunit VI
-MTIDRTYPIFTVRWLAVHGLAVPTVSFLGSISAMQFIQR
->1_1 sp|Q71L71.1|PSBF_CYCRE RecName: Full=Cytochrome b559 subunit beta; AltName: Full=PSII reaction center subunit VI
-MTIDRTYPIFTVRWLAVHGLAVPTVFFLGSISAMQFIQR
->7_3 sp|Q7HIT7.1|PSBF_SCIVE RecName: Full=Cytochrome b559 subunit beta; AltName: Full=PSII reaction center subunit VI
-MTIDRTYPIFTVRWLAVHGLAVPTVFFLGSISAMQFIQR
->9_45 ATL58985.1 photosystem II cytochrome b559 beta subunit (chloroplast) [Araucaria angustifolia]
-MTIDRTYPIFTVRWLAVHGLAVPTVFFLGSISAMQFIQR
->10_44 BCK60666.1 cytochrome b559 beta chain (chloroplast) [Nageia nagi]
-MTIDRTYPIFTVRWLAVHGLAVPTVFFLGSISAMQFIQR
->11_0 sp|Q7IW43.1|PSBF_ZAMFU RecName: Full=Cytochrome b559 subunit beta; AltName: Full=PSII reaction center subunit VI
-MTIDRTYPIFTVRWLAVHGLAVPTVFFLGSISAMQFIQR
+>8_2 ALK01182.1 photosystem II protein J (chloroplast) [Juniperus communis]
+---MGGRIPLWLIGILAGILVIVLIGFFFYGSYSGLGSSL
+>5_10 ALK01104.1 photosystem II protein J (chloroplast) [Gnetum gnemon]
+MVDTTGRIPLWLVGTVAGILLIGLIGIFFYGSYSGLGSSL
+>4_47 BAJ19752.1 photosystem II protein J (chloroplast) [Larix decidua]
+MAETTGRIPLWLIATVTGIIVIGLLGIFFYGSYSGSGSSL
+>6_95 sp|B2Y1X3.1|PSBJ_WELMI RecName: Full=Photosystem II reaction center protein J; Short=PSII-J
+MADFT-RIPLWLIGTIVGILVIGLIGIYFYGSYSGLGSSL
+>3_150 QEI59912.1 photosystem II protein J (chloroplast) [Ephedra sinica]
+MADTTGRIPLWLVGTVTGILVISLVGIFFYGSYSGLGSSL
+>9_2 AXI97951.1 photosystem II protein J (plastid) [Araucaria angustifolia]
+MADTTGRIPLWLIGTLTGIIVIGLLGLFFYGSYSGLGSSL
+>2_86 AWX92030.1 photosystem II protein J (chloroplast) [Ginkgo biloba]
+MADTTGRIPLWLISTVTGTLVIGLMGIFFYGSYSGLGSSL
+>1_50 AAQ05235.1 photosystem II subunit J, partial (chloroplast) [Cycas revoluta]
+MADTTGRIPLWLIGTVTGTLVIGLIGIFFY----------
+>11_70 BAR93306.1 photosystem II protein J (chloroplast) [Zamia furfuracea]
+MADTTGRIPLWLIGTVTGTLVIGLLGIFFYGSYSGLGSSL
+>10_23 YP_008965125.1 photosystem II protein J (chloroplast) [Nageia nagi]
+MTDTTGRIPLWLIGTLTGTLVIGLIGLFFYGSYSGLGSSL
+>7_53 BAW34578.1 photosystem II protein J (chloroplast) [Sciadopitys verticillata]
+MTDTTGRIPLWLIGTLTGILVIGLIGIFFYGSYSGLGSSL
+>12_68 QBK34764.1 photosystem II protein J (chloroplast) [Taxus baccata]
+MADTTGRIPLWLIGTLTGILVIGLIGIFFYGSYSGLGSSL

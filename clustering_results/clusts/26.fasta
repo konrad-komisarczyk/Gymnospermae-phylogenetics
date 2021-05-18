@@ -1,22 +1,24 @@
->1_27 sp|Q71L70.1|PSBL_CYCRE RecName: Full=Photosystem II reaction center protein L; Short=PSII-L
-MTQSNPNEQNVELNRTSLYWGLLLIFVLAVLFSNYSFN
->2_84 QOZ40233.1 photosystem II protein L (chloroplast) [Ginkgo biloba]
-MTQSNPNEQNVELNRTSLYWGLLLIFVLAVLFSNYSFN
->3_43 QJQ26574.1 photosystem II protein L (chloroplast) [Ephedra sinica]
-MTQSNPNEQSVELNRTSLYWGLLLIFVLAVLFSSYFFN
->4_34 BAK86558.1 photosystem II protein L (chloroplast) [Larix decidua]
-MTQSNPNKQNVGLNRTSLFWGLLLIFVLAVLFSNYFFN
->5_44 sp|Q9GFC2.1|PSBL_GNEGN RecName: Full=Photosystem II reaction center protein L; Short=PSII-L
-MTQTNPNEQSVELNRTSLYWGLLLIFVLAVLFSNYFFN
->6_47 sp|Q6YLT3.1|PSBL_WELMI RecName: Full=Photosystem II reaction center protein L; Short=PSII-L
-MTQTNPNEQSVELNRTSLYWGLLLIFVLAVLFSNYFFN
->7_51 BCK60746.1 photosystem II protein L (chloroplast) [Sciadopitys verticillata]
-MTQSNPNEQNVELNRTSLYWGLLLIFVLAVLFSNYFFN
->8_72 AXP34392.1 photosystem II protein L (plastid) [Juniperus communis]
-MTQSNPNEQNVELNRTSLYWGLLLIFVLAVLFSNYFFN
->9_46 ATL58984.1 photosystem II protein L (chloroplast) [Araucaria angustifolia]
-MTQSNPNEQNVELNRTSLYWGLLLIFVLAVLFSNYFFN
->10_45 BCK60665.1 photosystem II protein L (chloroplast) [Nageia nagi]
-MTQSNPNEQNVELNRTSLYWGLLLIFVLAVLFSNYFFN
->11_4 sp|Q7IW42.1|PSBL_ZAMFU RecName: Full=Photosystem II reaction center protein L; Short=PSII-L
-MTQSNPNEQNVELNRTSLYWGLLLIFVLAVLFSNYSFN
+>1_66 AEX99226.1 photosystem II protein I (chloroplast) [Cycas revoluta]
+MFTLKLFVYTVVIFFVSLFIFGFLSNDPGRNPGRKE
+>2_6 BAL72575.1 photosystem II protein I (chloroplast) [Ginkgo biloba]
+MLTLKLFVHTVVIFFVFLLIFGFLSNDPGRNPGRKE
+>3_149 QEI59886.1 photosystem II protein I (chloroplast) [Ephedra sinica]
+MLTLKVFVYTIVIFFISLFIFGFLSNDPGRNPGRKEEG
+>4_56 YP_004891201.1 photosystem II protein I (chloroplast) [Larix decidua]
+MLTLKLFVYAVVVFFISLFIFGFLSNDPGRNPGRKE
+>5_31 ANZ53570.1 photosystem II protein I (plastid) [Gnetum gnemon]
+MLTLKVFVYTVVIFFVSLFLFGFLSNDPGRNPGRKEESS
+>6_196 BAH11224.1 photosystem II protein I (chloroplast) [Welwitschia mirabilis]
+MLTLKVFVYTVVTFFISLFLFGFLSNDPGRNPGRKEEG
+>7_102 BAW34597.1 photosystem II protein I (chloroplast) [Sciadopitys verticillata]
+MLTLKLFVYTVVIFFVSLFIFGFLSNDPARNPGRKE
+>8_68 YP_009388155.1 photosystem II protein I (chloroplast) [Juniperus communis]
+MLTLKLFVYTVVIFFVSLFIFGFLSNDPGRNPGRKE
+>9_104 AXI97920.1 photosystem II protein I (plastid) [Araucaria angustifolia]
+MLTLKLFVYTVVIFFVSLFIFGFLSNDPGRNPGRKG
+>10_159 BAK86673.1 photosystem II protein I (chloroplast) [Nageia nagi]
+MFTLKLFVYTVVVFFVSLFIFGFLSNDPGRNPGRKG
+>11_91 YP_009113710.1 photosystem II protein I (chloroplast) [Zamia furfuracea]
+MFTLKLFVYTVVIFFVSLLIFGFLSNDPGRNPGRKE
+>12_33 QBK33947.1 photosystem II protein I (chloroplast) [Taxus baccata]
+MLTLKLFVYTVVIFFVSLFIFGFLSNDPGRNPGRKE

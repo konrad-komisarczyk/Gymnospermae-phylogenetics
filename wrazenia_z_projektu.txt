@@ -1,0 +1,11 @@
+
+- brak bibliotek do klasteryzacji sekwencji i MSA w Pythonie, koieczność używania zewnętrznych programów
+- słaba dokumentacja programów do klasteryzacji i MSA
+- niewygodny format wyjściowy CD-HIT, brak narzędzi do odczytania go w Pythonie
+- brak sposobów wizualizacji klastrów i MSA
+
+- brak wygodnych funkcji do filtrowania sekwencji
+
+- dlaczego nie moglismy wybrac węecej sekwencji sumarycznie i więcej gatunków?
+
+
